@@ -1,0 +1,32 @@
+{
+  "name": "boilerplate-for-passportjs-with-connect-flash",
+  "version": "1.0.0",
+  "description": "boilerplate for passportjs with connect-flash",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
+    "connect-redis": "^3.3.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "express-single-session": "^1.0.0",
+    "fakeredis": "^2.0.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "session-file-store": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code1492/boilerplate-for-passportjs-with-connect-flash.git"
+  },
+  "author": "code1492",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code1492/boilerplate-for-passportjs-with-connect-flash/issues"
+  },
+  "homepage": "https://github.com/code1492/boilerplate-for-passportjs-with-connect-flash#readme"
+}
